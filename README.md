@@ -1,2 +1,2 @@
-# Learn
- All learning practices
+## Various exercise solutions
+# mainly https://projecteuler.net/archives
